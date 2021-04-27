@@ -1,0 +1,11 @@
+language: jsp
+
+jdk:
+  - oraclejdk8
+
+braches:
+  - master
+
+install:
+ - npm install
+
