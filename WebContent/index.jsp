@@ -12,8 +12,8 @@
 <script src="bootstrap-4.4.1-dist/js/bootstrap.min.js"></script>
 <style>
 img{
-height:80px;
-width:80px;
+height:90px;
+width:90px;
 }
 body{
      backgroud:url(pic/background.jpg) no-repeat;
