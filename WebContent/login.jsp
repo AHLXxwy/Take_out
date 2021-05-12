@@ -19,7 +19,7 @@ $(function(){
 			if(data=="ok"){
 				$.post("Reg",{username:username,password:password},function(data){
 					if(data=="success"){
-						alert("注册成功");
+						alert("已经注册成功");
 					}
 					else{
 						alert(data);
