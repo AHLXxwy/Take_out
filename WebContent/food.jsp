@@ -39,7 +39,7 @@ width:80px;
 							<h5 class="media-heading">${item.tname}</h5>
 							
 							<p>${item.fname}</p>
-							<p>价格：${item.fprice}元</p>
+							<p>食物价格：${item.fprice}元</p>
 							<p>配送时间：${item.ftime}分钟</p>
 						</div>
 
